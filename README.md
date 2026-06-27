@@ -19,6 +19,9 @@ The game features a standard $6 \times 7$ grid where two players take turns drop
 * **Draw Condition Handling:** Detects when the board is completely filled without a winner.
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41d09acb-6142-43d4-9884-b3627b20772d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2bc7959-6a49-4ef9-bbe8-e091bc5748e8" />
+
 
 ## 🛠️ Requirements & Compilation
 
